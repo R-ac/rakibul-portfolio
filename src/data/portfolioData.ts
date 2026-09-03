@@ -74,9 +74,9 @@ export const portfolioData = {
 
   socials: {
     // Editable email placeholder
-    email: "your-gmail@gmail.com",
+    email: "rakib.rocksaw@gmail.com",
     // Editable phone placeholder
-    phone: "+880 1XXX-XXXXXX (Replace with your phone number)",
+    phone: "+880 1893657929",
     linkedin: "https://www.linkedin.com/in/md-rakibul-islam-rakib-3818b03b1/",
     github: "https://github.com/R-ac",
     facebook: "https://www.facebook.com/rakib.rocksaw",
